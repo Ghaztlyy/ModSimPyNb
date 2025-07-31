@@ -1,0 +1,8 @@
+time,terminal_index,active_jeep,jeeps_in_terminal,passenger_queue
+86401,0,3,5|7|9|11,
+86401,1,0,2|4|6|8|10|12|14,
+
+Route Jeeps En Route:
+1,13
+Route Traffic Coefficients:
+0.9,0.9
